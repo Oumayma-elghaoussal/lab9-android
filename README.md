@@ -158,7 +158,7 @@ D/RESPONSE: [{"id":"1","nom":"LACHGAR","prenom":"Mohamed","ville":"Rabat","sexe"
 D/ETUDIANT: Etudiant{id=1, nom='LACHGAR', prenom='Mohamed', ville='Rabat', sexe='homme'}
 ```
 =======
-# lab9-android LAB 9 : Consommer un Web Service PHP 8 depuis une application Android avec Volley
+# test
 
 
 Démarrer XAMPP et activer Apache + MySQL. 
